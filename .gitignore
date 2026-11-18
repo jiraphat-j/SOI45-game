@@ -1,0 +1,22 @@
+# Vivado generated
+build/
+*.jou
+*.log
+*.str
+.Xil/
+xsim.dir/
+*.wdb
+*.pb
+vivado_pid*.zip
+# keep the bitstream out of git; attach it to a release instead
+*.bit
+# Python
+__pycache__/
+# Documents (kept locally, not in the repo)
+docs/
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+SOI45_Evolution_Rush_Visual_Spec.html
